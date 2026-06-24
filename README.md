@@ -118,5 +118,5 @@ I like difficult problems, ambitious teams, and products that actually matter.
 ## Find me
 
 Portfolio: https://www.canto.wtf  
-LinkedIn: YOUR_LINKEDIN  
-X / Twitter: YOUR_X
+LinkedIn: https://www.linkedin.com/in/guicantotc/ 
+X / Twitter: https://x.com/guicantotc
